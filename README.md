@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - **Cloud Platforms**: Azure
 
 ## 🚀 Projects:
-- **[Coffee Sales Dashboard](https://github.com/DA-Hetal-Patel/Train-Network-Dashboard)**: An Excel Dashboard for analyzing Coffee Sales data.
+- **[Coffee Sales Dashboard](https://github.com/DA-Hetal-Patel/Excel-Dashboard-for-Coffee-Sales)**: An Excel Dashboard for analyzing Coffee Sales data.
 - **[Stock Market Analysis](https://github.com/DA-Hetal-Patel/Stock-Market-Analysis)**: Data analysis and visualization for stock market trends.
 
 ## 📫 How to Reach Me:
