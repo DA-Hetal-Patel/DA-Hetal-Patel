@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me:
 - I am a data analyst with a passion for uncovering insights through data.
 - I specialize in Power BI, DAX, and data visualization.
-- Currently working on building dashboards and performing data analysis for Metrolinx.
+- Currently working on building dashboards and performing data analysis. 
 
 ## 📊 Technologies and Tools:
 - **Data Visualization**: Power BI, Tableau
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - **Cloud Platforms**: Azure
 
 ## 🚀 Projects:
-- **[Train Network Dashboard](https://github.com/DA-Hetal-Patel/Train-Network-Dashboard)**: A Power BI dashboard for analyzing train network operations.
+- **[Coffee Sales Dashboard]([https://github.com/DA-Hetal-Patel/Train-Network-Dashboard])**: An Excel Dashboard for analyzing Coffee Sales data.
 - **[Stock Market Analysis](https://github.com/DA-Hetal-Patel/Stock-Market-Analysis)**: Data analysis and visualization for stock market trends.
 
 ## 📫 How to Reach Me:
