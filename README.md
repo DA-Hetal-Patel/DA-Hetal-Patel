@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ## 🚀 Projects:
 - **[Coffee Sales Dashboard](https://github.com/DA-Hetal-Patel/Excel-Dashboard-for-Coffee-Sales)**: An Excel Dashboard for analyzing Coffee Sales data.
 - **[Credit Card Retension Analysis](https://github.com/DA-Hetal-Patel/Credit-Card-Retention-Analysis/blob/main/Credit%20Card%20Retention%20Analysis.ipynb)**: Data analysis and visualization for Credit Card Retension Analysis.
+- **[Telecom Customer Churn Prediction](https://github.com/DA-Hetal-Patel/Telecom-Customer-Churn-Prediction/blob/main/Telecom_Customer_Churn_Prediction.ipynb)**: A Python project for predicting customer churn in the telecom industry, using exploratory data analysis (EDA) to analyze customer data and identify key factors contributing to churn risk..
+- 
 
 ## 📫 How to Reach Me:
 - LinkedIn: [Hetal's LinkedIn](https://www.linkedin.com/in/hetal-patel)
