@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - **[World Energy Consumption](https://github.com/DA-Hetal-Patel/World-Energy-Consumption/blob/main/EDA_World_Energy_Consumption_Final%202.ipynb)** :A Python project analyzing global energy consumption trends using exploratory data analysis (EDA) to uncover insights into energy sources, regional usage patterns, and historical trends.
 
 ## 📫 How to Reach Me:
-- LinkedIn: [Hetal's LinkedIn](https://www.linkedin.com/in/hetal-patel)
+- LinkedIn: [Hetal's LinkedIn](https://www.linkedin.com/in/da-hetal-patel/)
 - Email: [hetal@example.com](mailto:hetal@example.com)
 
 ## ⚡ Fun Facts:
