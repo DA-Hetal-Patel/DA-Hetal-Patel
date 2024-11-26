@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to Reach Me:
 - LinkedIn: [Hetal's LinkedIn](https://www.linkedin.com/in/da-hetal-patel/)
-- Email: [hetal@example.com](mailto:hetal@example.com)
+- Email: [da.hetal.patel@gmail.com](mailto:da.hetal.patel@gmail.com)
 
 ## ⚡ Fun Facts:
 - I love solving complex data problems.
